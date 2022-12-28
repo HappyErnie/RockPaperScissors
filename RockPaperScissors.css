@@ -5,7 +5,7 @@ body {
 }
 
 table, tr, td {
-  width: 600px;
+  width: 400px;
   margin: 0 auto;
 }
 
@@ -33,14 +33,14 @@ table, tr, td {
 }
 
 #computer-choice {
-  width: 180px;
-  height: 180px;
+  width: 120px;
+  height: 120px;
   margin-top: 10px;
 }
 
 #player-choice {
-  width: 180px;
-  height: 180px;
+  width: 120px;
+  height: 120px;
   margin-top: 10px;
 }
 
